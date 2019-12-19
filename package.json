@@ -1,6 +1,6 @@
 {
   "name": "@startupjs/stylus-loader",
-  "version": "3.0.2",
+  "version": "1003.0.2",
   "publishConfig": {
     "access": "public"
   },
