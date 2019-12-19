@@ -1,6 +1,9 @@
 {
-  "name": "stylus-loader",
+  "name": "@startupjs/stylus-loader",
   "version": "3.0.2",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Stylus loader for webpack",
   "main": "index.js",
   "files": [
